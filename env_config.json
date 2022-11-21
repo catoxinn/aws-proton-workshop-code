@@ -1,6 +1,6 @@
 {
     "REPLACE_ME": {
-        "role": "arn:aws:iam:::REPLACE_ME:role/REPLACE_ME",
+        "role": "arn:aws:iam::444708751944:role/ExampleGithubRole",
         "region": "us-east-1",
         "state_bucket":"aws-proton-terraform-bucket-444708751944"
     }
